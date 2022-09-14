@@ -35,7 +35,7 @@
 
 <br>
   
-<div align="center">
+<div>
 
 ## Entre em contato comigo! :zap:
 
