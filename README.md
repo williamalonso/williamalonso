@@ -50,10 +50,4 @@
    <img height="500em" <a href="https://imgur.com/A6uiN0R"><img src="https://i.imgur.com/A6uiN0R.gif" title="source: imgur.com" /></a>
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/williamalonso/williamalonso/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 
