@@ -1,9 +1,9 @@
-## Olá! Eu sou o William 👋
+## Hi! I am William 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou desenvolvedor Front-End trabalhando atualmente com <strong>Vanilla JS</strong> para uma empresa que fornece serviços de computação em nuvem. Adoro tecnologia e amo criar código. Busco sempre adquirir novas habilidades e também gosto de passar meu conhecimento adiante ajudando as pessoas. Aqui nesse espaço pretendo trazer idéias legais de projetos pessoais. :smile:
+   I am a Front-End developer currently working with Vanilla JS for a company that provides cloud computing services. I love technology and I love creating code. I always seek to acquire new skills and I also like to pass my knowledge forward by helping people. Here in this space, I intend to bring cool ideas of personal projects. :smile:
 </p>
 
 <br>
