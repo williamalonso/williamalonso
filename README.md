@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-   I am a Front-End developer currently working with Vanilla JS for a company that provides cloud computing services. I love technology and I love creating code. I always seek to acquire new skills and I also like to pass my knowledge forward by helping people. Here in this space, I intend to bring cool ideas of personal projects. :smile:
+   I am a Front-End developer and I love technology and to create code. I always seek to acquire new skills and I also like to pass my knowledge forward by helping people. Here in this space, I intend to bring cool ideas of personal projects. :smile:
 </p>
 
 <br>
