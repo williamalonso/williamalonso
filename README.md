@@ -17,11 +17,14 @@
 
  ## Technologies I'm learning :books:
 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+ ![React](https://a11ybadges.com/badge?logo=react)
+ ![Redux](https://a11ybadges.com/badge?logo=redux)
+ ![styled-components](https://a11ybadges.com/badge?logo=styledcomponents)
+ ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
+ ![Alpine.js](https://a11ybadges.com/badge?logo=alpinedotjs)
+ ![Express](https://a11ybadges.com/badge?logo=express)
+ ![MySQL](https://a11ybadges.com/badge?logo=mysql)
+ ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
 
 <br>
   
