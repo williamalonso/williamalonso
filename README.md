@@ -8,14 +8,9 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/williamalonso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalonso&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <br>
 
- ## Technologies I'm learning :books:
+ ## Technologies that I like to work with :books:
 
  ![React](https://a11ybadges.com/badge?logo=react)
  ![Redux](https://a11ybadges.com/badge?logo=redux)
