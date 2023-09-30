@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
 
 <br>
-<br>
 
 <div align="left">
    <p>I am a Front-End developer and I love technology and to create code.</p>
