@@ -1,13 +1,18 @@
-## Hi! I am William 👋
+<h1 align="center">Hi! I am William 👋</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-   I am a Front-End developer and I love technology and to create code. I always seek to acquire new skills and I also like to pass my knowledge forward by helping people. Here in this space, I intend to bring cool ideas of personal projects. :smile:
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <br>
+<br>
 
+<div align="left">
+   <p>I am a Front-End developer and I love technology and to create code.</p>
+   <p>I always seek to acquire new skills and I also like to pass my knowledge forward by helping people.</p>
+   <p>Here in this space, I intend to bring cool ideas of personal projects. :smile:</p>
+</div>
+
+
+<br>
 <br>
 
  ## Technologies that I like to work with :books:
