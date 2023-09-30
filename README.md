@@ -1,6 +1,6 @@
-<h1 align="center">Hi! I am William 👋</h1>
+<h1 align="left">Hi! I am William 👋</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
 
 <br>
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 
- ## Technologies that I like to work with :books:
+<h1 align="left">Technologies that I like to work with :books:</h1><br>
 
  ![React](https://a11ybadges.com/badge?logo=react)
  ![Redux](https://a11ybadges.com/badge?logo=redux)
@@ -30,7 +30,7 @@
   
 <div>
 
-## Contact me! :zap:
+<h1>Contact me! :zap: </h1><br>
 
   <a href = "mailto:william.al.alonso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:williamalonso@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
