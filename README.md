@@ -16,15 +16,20 @@
 
 <h1 align="left">Technologies that I like to work with :books:</h1><br>
 
- ![React](https://a11ybadges.com/badge?logo=react)
- ![Redux](https://a11ybadges.com/badge?logo=redux)
- ![styled-components](https://a11ybadges.com/badge?logo=styledcomponents)
- ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
- ![Alpine.js](https://a11ybadges.com/badge?logo=alpinedotjs)
- ![Express](https://a11ybadges.com/badge?logo=express)
- ![MySQL](https://a11ybadges.com/badge?logo=mysql)
- ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
+<div>
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+   <img height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
 
+<br>
 <br>
   
 <div>
