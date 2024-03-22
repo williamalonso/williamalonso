@@ -33,9 +33,8 @@
   
 <div>
 
-<h1>Contact me! :zap: </h1><br>
+<h1>Social Medias! :zap: </h1><br>
 
-  <a href = "mailto:william.al.alonso@gmail.com">![Gmail](https://a11ybadges.com/badge?logo=gmail)</a>
   <a href="https://www.linkedin.com/in/alonso-william/" target="_blank">![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)</a>
   <a href="https://youtube.com/@CavernadoFront" target="_blank">![YouTube](https://a11ybadges.com/badge?logo=youtube)</a>
 </div> 
