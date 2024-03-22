@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<h1 align="left">Technologies that I like to work with :books:</h1><br>
+<h1 align="left">Technologies that I like to work with :woman_technologist:</h1><br>
 
 <div>
    <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -33,7 +33,7 @@
   
 <div>
 
-<h1>Social Medias! :zap: </h1><br>
+<h1>Social Medias! :loudspeaker: </h1><br>
 
   <a href="https://www.linkedin.com/in/alonso-william/" target="_blank">![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)</a>
   <a href="https://youtube.com/@CavernadoFront" target="_blank">![YouTube](https://a11ybadges.com/badge?logo=youtube)</a>
